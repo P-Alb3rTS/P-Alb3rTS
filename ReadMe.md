@@ -2,7 +2,7 @@
 
 <img align="left" alt="GIF" src="/code.gif"  width="340" height="260" style="margin-right: 30px;"/>
 
-<p style="margin-top: 50px;>
+<p style="margin-top: 50px; margin-left: 40px;">
 
 👋 Hola my nombre es Albertson ([P-Alb3rTS](https://github.com/P-Alb3rTS)), soy un desarrollador semi-senior, programador web y de software.
 
