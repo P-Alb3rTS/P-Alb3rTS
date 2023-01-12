@@ -1,6 +1,6 @@
 <h1 align="center">  ✉About Me</h1>
 
-<img align="left" alt="GIF" src="./Resources/Gif/code.gif"  width="340" height="260" style="margin-right: 40px;"/>
+<img align="left" alt="GIF" src="./code.gif"  width="340" height="260" style="margin-right: 40px;"/>
 
 <p style="margin-top: 40px;>
 
