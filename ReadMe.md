@@ -1,8 +1,8 @@
 <h1 align="center">  ✉About Me</h1>
 
-<img align="left" alt="GIF" src="./code.gif"  width="340" height="260" style="margin-right: 40px;"/>
+<img align="left" alt="GIF" src="./code.gif" width="340" height="280" style="margin-right: 40px;"/>
 
-<p style="margin-top: 40px;>
+<p style="margin-top: 30px;>
 
 👋 Hola my nombre es Albertson ([P-Alb3rTS](https://github.com/P-Alb3rTS)), soy un desarrollador semi-senior, programador web y de software.
 
