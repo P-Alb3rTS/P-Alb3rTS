@@ -4,7 +4,7 @@
 
 <p style="margin-top: 30px;>
 
-👋 Hola my nombre es Albertson ([P-Alb3rTS](https://github.com/P-Alb3rTS)), soy un desarrollador semi-senior, programador web y de software.
+👋 Hola my nombre es Albertson ([P-Alb3rTS](https://github.com/P-Alb3rTS)), soy un desarrollador, programador web y de software.
 
 👀 Me interesa: El Desarrollo Web y de Software, la Cyber Seguridad, también las Tecnologías.
 
