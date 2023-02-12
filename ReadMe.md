@@ -13,7 +13,7 @@
 👨‍💻 Actualmente trabajo en: S.M.A.R.T, Proyecto-Emprendimiento (Sitio Web, Robótica, Realidad Virtual, Sistema Operativo, CharBot de soporte técnico) y Si es un solo proyecto, Proyecto-Pasantía.
 
 📫 Como contactarme:    
-[![Facebook](./Resources//Correo.png)](https://)    [![Instagram](./Resources//Correo.png)](https://)    [![Correo](./Resources//Correo.png)](https://)
+[![Facebook](./Resources/Correo.png)](https://)    [![Instagram](./Resources/Correo.png)](https://)    [![Correo](./Resources/Correo.png)](https://)
 
 </p>
 
